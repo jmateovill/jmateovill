@@ -7,11 +7,41 @@
 
 - 🌱 I’m currently learning **SQL Server, SSMS, Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jmateovill](https://github.com/jmateovill)
+- 📝 I write blogs of my journey on [LinkedIn](https://www.linkedin.com/in/jmateovill/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jmateovill/](https://www.linkedin.com/in/jmateovill/)
+- 📫 Reach me out thru **[Gmail](jmateo.vill@gmail.com)** and **[Outlook](jmateo.vill@hotmail.com)**
 
-- 📫 How to reach me **jmateo.vill@gmail.com**
+<h3 align="left">Projects:</h3>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/jmateovill/electric-vehicle-population-analysis/blob/main/README.md">
+        <img src="https://github.com/jmateovill/electric-vehicle-population-analysis/blob/main/powerbi/washington-state-evpd-dashboard-preview.jpg"
+             alt="Executive Overview EV Population Project"
+             style="width:100%; height:210px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Executive Overview on Electric Vehicle Population</b><br/>
+      <sub>An executive overview on exploratory analysis of Washington State EV population dataset.</sub><br/>
+      🔗 <a href="https://github.com/jmateovill/electric-vehicle-population-analysis/blob/main/README.md">Repo</a>
+      <br/>
+      <sub>Tags: Power BI, SQL, Data Pipeline, Storytelling</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/jmateovill/electric-vehicle-population-analysis/blob/main/excel/README.md">
+        <img src="https://github.com/jmateovill/electric-vehicle-population-analysis/blob/main/excel/evpd-excel-dashboard-snap-1.png"
+             alt="Excel Dashboard on EV Population"
+             style="width:100%; height:210px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Interactive Dashboard on Electric Vehicle Population</b><br/>
+      <sub>An end-to-end data cleaning to visualization on Washington State Electric Vehicle Population dataset</sub><br/>
+      🔗 <a href="https://github.com/jmateovill/electric-vehicle-population-analysis/blob/main/excel/README.md">Repo</a>
+      <br/>
+      <sub>Tags: Excel, Pivot Tables, Mapping Table, XLOOKUP</sub>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
