@@ -3,9 +3,9 @@
 
 ---
 
-- 🔭 I've just wrapped up my [Electric Vehicle Population Analysis](https://github.com/jmateovill/electric-vehicle-population-analysis)
+- 📊 I'm currently working on my [Digital Agency Project & Budget Management Dashboard](https://github.com/jmateovill/project-management-dashboard)
 
-- 🌱 I’m currently learning **SQL Server, SSMS, Power BI**
+- 🌱 I’m currently learning **Business Intelligence using SQL Server, SSMS, Power BI**
 
 - 📝 I write blogs of my journey on [LinkedIn](https://www.linkedin.com/in/jmateovill/)
 
