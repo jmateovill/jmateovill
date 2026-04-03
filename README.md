@@ -41,6 +41,21 @@
       <sub>Tags: Excel, Pivot Tables, Mapping Table, XLOOKUP</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/jmateovill/project-management-dashboard">
+        <img src="https://github.com/jmateovill/project-management-dashboard/blob/main/powerbi/ppm-dashboard-preview-1.jpg"
+             alt="Project Portfolio & Budget Management"
+             style="width:100%; height:210px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Project Portfolio & Budget Management Dashboard</b><br/>
+      <sub>A Digital Agency Project Portfolio & Budget Management BI Dashboard</sub><br/>
+      🔗 <a href="https://github.com/jmateovill/project-management-dashboard">Repo</a>
+      <br/>
+      <sub>Tags: Power BI, Microsoft SQL Server, Synthetic Dataset</sub>
+    </td>
+  </tr>
 </table>
 
 <h3 align="left">Connect with me:</h3>
