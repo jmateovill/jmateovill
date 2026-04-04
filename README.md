@@ -44,7 +44,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/jmateovill/project-management-dashboard">
-        <img src="https://github.com/jmateovill/project-management-dashboard/blob/main/powerbi/ppm-dashboard-preview-1.jpg"
+        <img src="https://github.com/jmateovill/project-management-dashboard/blob/main/powerbi/ppm-dashboard-preview-1.png"
              alt="Project Portfolio & Budget Management"
              style="width:100%; height:210px; object-fit:cover;"/>
       </a>
