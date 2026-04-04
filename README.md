@@ -9,7 +9,7 @@
 
 - 📝 I write blogs of my journey on [LinkedIn](https://www.linkedin.com/in/jmateovill/)
 
-- 📫 Reach me out thru **[Gmail](jmateo.vill@gmail.com)** and **[Outlook](jmateo.vill@hotmail.com)**
+- 📫 Reach me out thru **[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=jmateo.vill@gmail.com)** and **[Outlook](mailto:jmateo.vill@hotmail.com)**
 
 <h3 align="left">Projects:</h3>
 <table>
