@@ -5,7 +5,7 @@
 
 - 📊 I'm currently working on my [Digital Agency Project & Budget Management Dashboard](https://github.com/jmateovill/project-management-dashboard)
 
-- 🌱 I’m currently learning **Business Intelligence using SQL Server, SSMS, Power BI**
+- 🌱 I’m currently learning **Mid-to-Advanced Microsoft Excel Data Analysis**
 
 - 📝 I write blogs of my journey on [LinkedIn](https://www.linkedin.com/in/jmateovill/)
 
