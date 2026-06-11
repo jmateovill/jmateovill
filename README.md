@@ -3,7 +3,7 @@
 
 ---
 
-- 📊 I'm currently working on my **Github Website Portfolio**
+- 📊 I'm currently working on my **[Employee Turnover Analysis](https://github.com/jmateovill/employee-turnover-analysis)**
 
 - 🌱 I’m currently learning **Mid-to-Advanced Microsoft Excel Data Analysis**
 
