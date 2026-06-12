@@ -1,5 +1,5 @@
 <h1 align="center">John Matthew L. Villanueva</h1>
-<h3 align="center">An aspiring Data Analyst and Computer Science graduate.</h3>
+<h3 align="center">Junior Data Analyst and Computer Science Graduate.</h3>
 
 ---
 
