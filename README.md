@@ -38,7 +38,7 @@
       <sub>An end-to-end data cleaning to visualization on Washington State Electric Vehicle Population dataset</sub><br/>
       🔗 <a href="https://github.com/jmateovill/electric-vehicle-population-analysis/blob/main/excel/README.md">Repo</a>
       <br/>
-      <sub>Tags: Excel, Pivot Tables, Mapping Table, XLOOKUP</sub>
+      <sub>Tags: Microsoft Excel, Pivot Tables, Mapping Table, XLOOKUP</sub>
     </td>
   </tr>
   <tr>
@@ -54,6 +54,19 @@
       🔗 <a href="https://github.com/jmateovill/project-management-dashboard">Repo</a>
       <br/>
       <sub>Tags: Power BI, Microsoft SQL Server, Synthetic Dataset</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/jmateovill/employee-turnover-analysis">
+        <img src="https://github.com/jmateovill/employee-turnover-analysis/blob/main/excel/employee-turnover-dashboard-template-preview.png"
+             alt="Employee Turnover Dashboard"
+             style="width:100%; height:210px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Employee Turnover Analysis <i>(in-progress)</i></b><br/>
+      <sub>A scalable project for the analysis of medium-sized company's employee turnover</sub><br/>
+      🔗 <a href="https://github.com/jmateovill/employee-turnover-analysis">Repo</a>
+      <br/>
+      <sub>Tags: Microsoft Excel, Pivot Tables, Power Query, Formulas</sub>
     </td>
   </tr>
 </table>
