@@ -57,12 +57,12 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/jmateovill/employee-turnover-analysis">
-        <img src="https://github.com/jmateovill/employee-turnover-analysis/blob/main/excel/employee-turnover-dashboard-template-preview.png"
+        <img src="https://github.com/jmateovill/employee-turnover-analysis/blob/main/excel/employee-turnover-dashboard-template-preview-4.png"
              alt="Employee Turnover Dashboard"
              style="width:100%; height:210px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Employee Turnover Analysis <i>(in-progress)</i></b><br/>
+      <b>Employee Turnover Analysis & Dashboard</b><br/>
       <sub>A scalable project for the analysis of medium-sized company's employee turnover</sub><br/>
       🔗 <a href="https://github.com/jmateovill/employee-turnover-analysis">Repo</a>
       <br/>
