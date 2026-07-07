@@ -1,5 +1,5 @@
 <h1 align="center">John Matthew L. Villanueva</h1>
-<h3 align="center">Junior Data Analyst and Computer Science Graduate.</h3>
+<h3 align="center">Junior Data Analyst | Computer Science Graduate</h3>
 
 ---
 
@@ -57,7 +57,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/jmateovill/employee-turnover-analysis">
-        <img src="https://github.com/jmateovill/employee-turnover-analysis/blob/main/excel/employee-turnover-dashboard-template-preview-4.png"
+        <img src="https://github.com/jmateovill/employee-turnover-analysis/blob/main/DASHBOARD%20PART%201%20-%20DASHBOARD.png"
              alt="Employee Turnover Dashboard"
              style="width:100%; height:210px; object-fit:cover;"/>
       </a>
